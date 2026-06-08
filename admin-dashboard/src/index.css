@@ -1,0 +1,11 @@
+:root{
+  --bg:#0d1117;--sf:#161b22;--sf2:#21262d;--bd:#30363d;
+  --tx:#e6edf3;--tx2:#8b949e;--tx3:#484f58;--ac:#d2a679;
+  --sv:#e8453c;--sv2:rgba(232,69,60,.13);
+  --co:#e8a020;--co2:rgba(232,160,32,.13);
+  --ln:#3fb950;--ln2:rgba(63,185,80,.13);
+  --bm:#388bfd;--bm2:rgba(56,139,253,.13);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{height:100%;background:var(--bg);color:var(--tx);font-family:"DM Mono",monospace;}
+

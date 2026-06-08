@@ -1,0 +1,78 @@
+[
+  {
+    "second_id": "D12b",
+    "second_name": "Level of water stress (SDG 6.4.2) (%)",
+    "top_id": "T12",
+    "top_name": "Climate vulnerability and environmental stress",
+    "pillar": "Demand",
+    "strength": "Intermediate",
+    "weight": 2,
+    "direction": "pos",
+    "unit": "% freshwater withdrawal of available resources",
+    "source_name": "FAO AQUASTAT",
+    "source_url": "https://www.sdg6data.org/indicator/6.4.2",
+    "data_availability": "Global public",
+    "wb_api_code": "SDG642_WATER"
+  },
+  {
+    "second_id": "D12c",
+    "second_name": "Population exposed to flood/drought/cyclone risk (%)",
+    "top_id": "T12",
+    "top_name": "Climate vulnerability and environmental stress",
+    "pillar": "Demand",
+    "strength": "Intermediate",
+    "weight": 2,
+    "direction": "pos",
+    "unit": "INFORM hazard exposure score",
+    "source_name": "INFORM / JRC",
+    "source_url": "https://www.inform-index.org/",
+    "data_availability": "Global public",
+    "wb_api_code": "INFORM_HAZARD"
+  },
+  {
+    "second_id": "D13a",
+    "second_name": "Average annual loss from disasters (% GDP)",
+    "top_id": "T13",
+    "top_name": "Disaster risk and infrastructure losses",
+    "pillar": "Demand",
+    "strength": "Intermediate",
+    "weight": 2,
+    "direction": "pos",
+    "unit": "% GDP",
+    "source_name": "UNDRR",
+    "source_url": "https://www.undrr.org/",
+    "data_availability": "Limited public",
+    "wb_api_code": "AAL_GDP"
+  },
+  {
+    "second_id": "D13b",
+    "second_name": "INFORM Risk Index overall score",
+    "top_id": "T13",
+    "top_name": "Disaster risk and infrastructure losses",
+    "pillar": "Demand",
+    "strength": "Intermediate",
+    "weight": 2,
+    "direction": "pos",
+    "unit": "0-10 (higher = more risk)",
+    "source_name": "INFORM / JRC",
+    "source_url": "https://www.inform-index.org/",
+    "data_availability": "Global public",
+    "wb_api_code": "INFORM_RISK"
+  },
+  {
+    "second_id": "D14c",
+    "second_name": "Industry value added incl. construction (% GDP)",
+    "top_id": "T14",
+    "top_name": "Economic and investment capacity",
+    "pillar": "Demand",
+    "strength": "Strong",
+    "weight": 3,
+    "direction": "neg",
+    "unit": "% GDP",
+    "source_name": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NV.IND.TOTL.ZS",
+    "data_availability": "Global public",
+    "wb_api_code": "NV.IND.TOTL.ZS"
+  }
+]
+
